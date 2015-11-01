@@ -1,0 +1,15 @@
+[user]
+	email = allenwhitedev@gmail.com
+	name = allenwhitedev
+
+[alias]
+	co = checkout
+	com = checkout master 
+	a = add 
+	s = status
+	b = branch
+	l = log
+	pom = push origin master
+	
+	
+	
